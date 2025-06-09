@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+
+# AWS
+*.log
+.aws-sam/
+
+# VSCode
+.vscode/
+
+# Other
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
